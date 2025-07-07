@@ -52,15 +52,9 @@ export default function Footer() {
         <div className="space-y-4">
           <h3 className="text-xl font-semibold text-white">Stay Connected</h3>
           <div className="flex items-center space-x-4">
+           
             <a
-              href="https://twitter.com/redsails"
-              aria-label="Twitter"
-              className="hover:text-white transition-colors"
-            >
-              <Twitter size={24} />
-            </a>
-            <a
-              href="https://github.com/redsails"
+              href="https://github.com/RedSailsCollective"
               aria-label="GitHub"
               className="hover:text-white transition-colors"
             >
