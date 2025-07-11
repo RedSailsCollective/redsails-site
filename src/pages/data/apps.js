@@ -17,7 +17,7 @@ RedSails Monitor displays live CPU, GPU, RAM and fan stats against an animated �
 • Easily extensible for logging, alerts or OBS overlay
     `.trim(),
     thumbnail: '/images/redsails-monitor/thumb.png',
-    href: '../release/RedSails-PCMonitor.zip'
+    href: 'https://github.com/RedSailsCollective/systemmonitor/releases/tag/Windows'
   },
 
   // add more apps here…
